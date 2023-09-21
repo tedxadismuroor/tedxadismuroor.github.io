@@ -186,17 +186,21 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 614px;
+  }
+
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
     width: auto;
-    margin-top: 219px;
+    margin-top: 208px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-countdown-1 {
     --animation-custom_in-scale: 1;
-    margin-top: 151px;
+    margin-top: 139px;
     margin-right: auto;
     padding: 16px 0;
   }
@@ -271,7 +275,7 @@
 
   .u-section-1 .u-btn-1 {
     --animation-custom_in-scale: 0.3;
-    margin-top: -209px;
+    margin-top: -197px;
     margin-left: auto;
     padding: 9px 68px 9px 67px;
   }
