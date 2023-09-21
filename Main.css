@@ -63,6 +63,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-1 {
+    margin-top: 20px;
     margin-right: 182px;
   }
 }
@@ -81,7 +82,6 @@
 
   .u-section-1 .u-text-1 {
     font-size: 3rem;
-    margin-top: -308px;
     margin-left: 12px;
     margin-right: 12px;
   }
@@ -112,6 +112,7 @@
   }
 
   .u-section-1 .u-btn-1 {
+    --animation-custom_in-translate_x: 0px;
     margin-top: 12px;
     margin-left: auto;
     padding: 9px 68px 9px 67px;
