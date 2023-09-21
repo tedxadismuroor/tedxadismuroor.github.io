@@ -6,17 +6,6 @@
   min-height: 845px;
 }
 
-.u-section-1 .u-image-1 {
-  width: 560px;
-  height: 270px;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 0.3;
-  margin: 288px 11px 0 auto;
-}
-
 .u-section-1 .u-text-1 {
   font-family: horizon;
   font-size: 3.125rem;
@@ -25,7 +14,125 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: -244px 624px 0 0;
+  margin: 60px 590px 0 34px;
+}
+
+.u-section-1 .u-countdown-1 {
+  margin: -84px 0 0 auto;
+  padding: 42px 56px;
+}
+
+.u-section-1 .u-countdown-counter-1 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-label-1 {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-separator-1 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-counter-2 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-label-2 {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-separator-2 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-counter-3 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-label-3 {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-separator-3 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-counter-4 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-label-4 {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-separator-4 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-counter-5 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-label-5 {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-separator-5 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-counter-6 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: horizon;
+}
+
+.u-section-1 .u-countdown-label-6 {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-family: horizon;
 }
 
 .u-section-1 .u-btn-1 {
@@ -34,52 +141,42 @@
   letter-spacing: 1px;
   transition-duration: 0.5s;
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 37px auto 60px 0;
+  margin: -27px auto 60px 34px;
   padding: 14px 96px 14px 95px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-image-1 {
-    margin-top: 368px;
-  }
-
   .u-section-1 .u-text-1 {
-    margin-top: -324px;
     margin-right: 402px;
     margin-left: 23px;
   }
 
+  .u-section-1 .u-countdown-1 {
+    margin-top: 20px;
+  }
+
   .u-section-1 .u-btn-1 {
-    margin-top: 117px;
     margin-left: 23px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-1 {
-    margin-top: 20px;
     margin-right: 182px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 20px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 835px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 540px;
-    height: 260px;
-    margin-top: 362px;
-    margin-right: 0;
-  }
-
   .u-section-1 .u-text-1 {
     font-size: 3rem;
     margin-left: 12px;
@@ -92,28 +189,91 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 739px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 147px;
-    width: 304px;
-    margin-top: 425px;
-    margin-right: auto;
-  }
-
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
     width: auto;
-    margin-top: -349px;
+    margin-top: 277px;
     margin-left: 0;
     margin-right: 0;
   }
 
+  .u-section-1 .u-countdown-1 {
+    margin-top: 183px;
+    margin-right: auto;
+    padding: 16px 0;
+  }
+
+  .u-section-1 .u-countdown-counter-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-label-1 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-1 .u-countdown-separator-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-counter-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-label-2 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-1 .u-countdown-separator-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-counter-3 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-label-3 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-1 .u-countdown-separator-3 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-counter-4 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-label-4 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-1 .u-countdown-separator-4 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-counter-5 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-label-5 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-1 .u-countdown-separator-5 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-counter-6 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-countdown-label-6 {
+    font-size: 0.625rem;
+  }
+
   .u-section-1 .u-btn-1 {
-    --animation-custom_in-translate_x: 0px;
-    margin-top: 12px;
+    --animation-custom_in-scale: 0.3;
+    margin-top: -256px;
     margin-left: auto;
     padding: 9px 68px 9px 67px;
   }
