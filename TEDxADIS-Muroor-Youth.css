@@ -344,6 +344,7 @@
   font-weight: 700;
   font-family: horizon;
   font-size: 1.5rem;
+  text-transform: none;
   margin: 130px auto 0;
 }
 
@@ -354,10 +355,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 .u-text-1 {
-    text-transform: none;
-  }
-
   .u-section-3 .u-text-2 {
     margin-right: 0;
     margin-left: 0;
@@ -700,6 +697,7 @@
 }
 
 .u-section-6 .u-text-2 {
+  font-size: 1.125rem;
   margin: 21px 0 0;
 }
 
@@ -718,10 +716,6 @@
 
   .u-section-6 .u-text-1 {
     font-size: 2.25rem;
-  }
-
-  .u-section-6 .u-text-2 {
-    font-size: 1.125rem;
   }
 }
 

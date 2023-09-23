@@ -42119,21 +42119,30 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -82px;
   }
 }
-
+@media (max-width: 991px) {
+  .u-header .u-menu-1 {
+    margin-top: 20px;
+  }
+}
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 150px;
+    min-height: 198px;
   }
 
   .u-header .u-image-1 {
-    width: 340px;
     height: 110px;
-    margin-left: 0;
+    margin-top: 53px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -65px;
+    width: auto;
+    margin-top: -147px;
+    margin-right: 14px;
+    margin-bottom: 60px;
   }
 }
  .u-footer {
