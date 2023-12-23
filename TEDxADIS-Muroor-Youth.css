@@ -5,7 +5,7 @@
 .u-section-1 .u-gallery-1 {
   height: 396px;
   width: 706px;
-  margin: 306px auto 0;
+  margin: 276px auto 0;
 }
 
 .u-section-1 .u-carousel-indicators-1 {
@@ -131,12 +131,17 @@
 .u-section-1 .u-text-1 {
   font-family: horizon;
   font-size: 3.125rem;
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
-  margin: 45px 0 60px;
+  margin: 75px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+  }
 }
 
 @media (max-width: 767px) {
